@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="C1_SearchLCF_EnterButton(failed)">
+    <classes>
+      <class name="lcfFaces.C1_SearchLCF_EnterButton">
+        <methods>
+          <include name="Browserclose"/>
+          <include name="SearchLCF_EnterButton"/>
+          <include name="Browsers"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.C1_SearchLCF_EnterButton -->
+    </classes>
+  </test> <!-- C1_SearchLCF_EnterButton(failed) -->
+</suite> <!-- Failed suite [Suite] -->

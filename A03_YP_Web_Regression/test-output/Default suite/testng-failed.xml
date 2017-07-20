@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="a2_Profile_Page.B2_LeftBlock">
+        <methods>
+          <include name="b8_AlsoListed"/>
+          <include name="Browserclose"/>
+          <include name="Browsers"/>
+          <include name="url"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- a2_Profile_Page.B2_LeftBlock -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

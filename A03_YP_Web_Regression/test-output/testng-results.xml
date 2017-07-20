@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[https://www.sulekha.com/cleaning-services/chennai]]>
+    </line>
+    <line>
+      <![CDATA[First need 1 Attribute type is correct > radio : radio]]>
+    </line>
+    <line>
+      <![CDATA[Selected Attribute : Cleaning services]]>
+    </line>
+    <line>
+      <![CDATA[First need 2 Attribute type is correct > checkbox : checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Selected Attribute : Apartment]]>
+    </line>
+    <line>
+      <![CDATA[First need 3 Attribute type is correct > radio : radio]]>
+    </line>
+    <line>
+      <![CDATA[Selected Attribute : Basic cleaning]]>
+    </line>
+    <line>
+      <![CDATA[First need 4 Attribute type is correct > checkbox : checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Selected Attribute : Floor]]>
+    </line>
+    <line>
+      <![CDATA[Total form count : 4]]>
+    </line>
+    <line>
+      <![CDATA[********** 1 need completed ]]>
+    </line>
+    <line>
+      <![CDATA[  ]]>
+    </line>
+    <line>
+      <![CDATA[First need 1 Attribute type is correct > radio : radio]]>
+    </line>
+    <line>
+      <![CDATA[Selected Attribute : Septic tank / drainage cleaning services]]>
+    </line>
+    <line>
+      <![CDATA[First need 2 Attribute type is correct > radio : radio]]>
+    </line>
+    <line>
+      <![CDATA[Selected Attribute : Drainage]]>
+    </line>
+    <line>
+      <![CDATA[First need 3 Attribute type is correct > radio : radio]]>
+    </line>
+    <line>
+      <![CDATA[Selected Attribute : Blocked drainage]]>
+    </line>
+    <line>
+      <![CDATA[Total form count : 3]]>
+    </line>
+    <line>
+      <![CDATA[********** 2 need completed ]]>
+    </line>
+    <line>
+      <![CDATA[  ]]>
+    </line>
+    <line>
+      <![CDATA[First need 1 Attribute type is correct > radio : radio]]>
+    </line>
+    <line>
+      <![CDATA[Selected Attribute : Garbage disposal services]]>
+    </line>
+    <line>
+      <![CDATA[First need 2 Attribute type is correct > checkbox : checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Selected Attribute : Electronic items]]>
+    </line>
+    <line>
+      <![CDATA[First need 3 Attribute type is correct > radio : radio]]>
+    </line>
+    <line>
+      <![CDATA[Selected Attribute : Industrial]]>
+    </line>
+    <line>
+      <![CDATA[First need 4 Attribute type is correct > radio : radio]]>
+    </line>
+    <line>
+      <![CDATA[Selected Attribute : Yearly]]>
+    </line>
+    <line>
+      <![CDATA[Total form count : 4]]>
+    </line>
+    <line>
+      <![CDATA[********** 3 need completed ]]>
+    </line>
+    <line>
+      <![CDATA[  ]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="126691" started-at="2017-07-19T09:52:23Z" finished-at="2017-07-19T09:54:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="126691" started-at="2017-07-19T09:52:23Z" finished-at="2017-07-19T09:54:29Z">
+      <class name="lcfFaces.C3_AttributeType">
+        <test-method status="PASS" signature="Browsers()[pri:0, instance:lcfFaces.C3_AttributeType@39c0f4a]" name="Browsers" is-config="true" duration-ms="3777" started-at="2017-07-19T15:22:23Z" finished-at="2017-07-19T15:22:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsers -->
+        <test-method status="PASS" signature="Need1AttributeType()[pri:0, instance:lcfFaces.C3_AttributeType@39c0f4a]" name="Need1AttributeType" duration-ms="121753" started-at="2017-07-19T15:22:26Z" finished-at="2017-07-19T15:24:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.sulekha.com/cleaning-services/chennai]]>
+            </line>
+            <line>
+              <![CDATA[First need 1 Attribute type is correct > radio : radio]]>
+            </line>
+            <line>
+              <![CDATA[Selected Attribute : Cleaning services]]>
+            </line>
+            <line>
+              <![CDATA[First need 2 Attribute type is correct > checkbox : checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Selected Attribute : Apartment]]>
+            </line>
+            <line>
+              <![CDATA[First need 3 Attribute type is correct > radio : radio]]>
+            </line>
+            <line>
+              <![CDATA[Selected Attribute : Basic cleaning]]>
+            </line>
+            <line>
+              <![CDATA[First need 4 Attribute type is correct > checkbox : checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Selected Attribute : Floor]]>
+            </line>
+            <line>
+              <![CDATA[Total form count : 4]]>
+            </line>
+            <line>
+              <![CDATA[********** 1 need completed ]]>
+            </line>
+            <line>
+              <![CDATA[  ]]>
+            </line>
+            <line>
+              <![CDATA[First need 1 Attribute type is correct > radio : radio]]>
+            </line>
+            <line>
+              <![CDATA[Selected Attribute : Septic tank / drainage cleaning services]]>
+            </line>
+            <line>
+              <![CDATA[First need 2 Attribute type is correct > radio : radio]]>
+            </line>
+            <line>
+              <![CDATA[Selected Attribute : Drainage]]>
+            </line>
+            <line>
+              <![CDATA[First need 3 Attribute type is correct > radio : radio]]>
+            </line>
+            <line>
+              <![CDATA[Selected Attribute : Blocked drainage]]>
+            </line>
+            <line>
+              <![CDATA[Total form count : 3]]>
+            </line>
+            <line>
+              <![CDATA[********** 2 need completed ]]>
+            </line>
+            <line>
+              <![CDATA[  ]]>
+            </line>
+            <line>
+              <![CDATA[First need 1 Attribute type is correct > radio : radio]]>
+            </line>
+            <line>
+              <![CDATA[Selected Attribute : Garbage disposal services]]>
+            </line>
+            <line>
+              <![CDATA[First need 2 Attribute type is correct > checkbox : checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Selected Attribute : Electronic items]]>
+            </line>
+            <line>
+              <![CDATA[First need 3 Attribute type is correct > radio : radio]]>
+            </line>
+            <line>
+              <![CDATA[Selected Attribute : Industrial]]>
+            </line>
+            <line>
+              <![CDATA[First need 4 Attribute type is correct > radio : radio]]>
+            </line>
+            <line>
+              <![CDATA[Selected Attribute : Yearly]]>
+            </line>
+            <line>
+              <![CDATA[Total form count : 4]]>
+            </line>
+            <line>
+              <![CDATA[********** 3 need completed ]]>
+            </line>
+            <line>
+              <![CDATA[  ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Need1AttributeType -->
+        <test-method status="PASS" signature="Teardown(org.testng.ITestResult)[pri:0, instance:lcfFaces.C3_AttributeType@39c0f4a]" name="Teardown" is-config="true" duration-ms="2" started-at="2017-07-19T15:24:28Z" finished-at="2017-07-19T15:24:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Need1AttributeType status=SUCCESS method=C3_AttributeType.Need1AttributeType()[pri:0, instance:lcfFaces.C3_AttributeType@39c0f4a] output=https://www.sulekha.com/cleaning-services/chennai]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="Browserclose()[pri:0, instance:lcfFaces.C3_AttributeType@39c0f4a]" name="Browserclose" is-config="true" duration-ms="1144" started-at="2017-07-19T15:24:28Z" finished-at="2017-07-19T15:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+      </class> <!-- lcfFaces.C3_AttributeType -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

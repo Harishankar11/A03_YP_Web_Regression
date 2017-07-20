@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Listing_Page_A01_Header">
+    <classes>
+      <class name="a1_Listing_Page.A01_Header"/>
+    </classes>
+  </test>
+  <test name="Listing_Page_A02_TopBlocks">
+    <classes>
+      <class name="a1_Listing_Page.A02_TopBlocks"/>
+    </classes>
+  </test>
+  <test name="Listing_Page_A03_Features_Block">
+    <classes>
+      <class name="a1_Listing_Page.A03_Features_Block"/>
+    </classes>
+  </test>
+  <test name="Listing_Page_A04_Sort">
+    <classes>
+      <class name="a1_Listing_Page.A04_Sort"/>
+    </classes>
+  </test>
+  <test name="Listing_Page_A05_Filter">
+    <classes>
+      <class name="a1_Listing_Page.A05_Filter"/>
+    </classes>
+  </test>
+  <test name="Listing_Page_A06_Listing_Tuple">
+    <classes>
+      <class name="a1_Listing_Page.A06_Listing_Tuple"/>
+    </classes>
+  </test>
+  <test name="Listing_Page_A06a_Listing_Tuple">
+    <classes>
+      <class name="a1_Listing_Page.A06a_Listing_Tuple"/>
+    </classes>
+  </test>
+  <test name="Listing_Page_A07_Middle_block">
+    <classes>
+      <class name="a1_Listing_Page.A07_Middle_block"/>
+    </classes>
+  </test> 
+  <test name="Listing_Page_A08_ReviewBlock">
+    <classes>
+      <class name="a1_Listing_Page.A08_ReviewBlock"/>
+    </classes>
+  </test> 
+  <test name="Listing_Page_A09_FindService">
+    <classes>
+      <class name="a1_Listing_Page.A09_FindService"/>
+    </classes>
+  </test> 
+  <test name="Listing_Page_A10_BelowBlock">
+    <classes>
+      <class name="a1_Listing_Page.A10_BelowBlock"/>
+    </classes>
+  </test> 
+    <test name="Listing_Page_A11_GrandParentPage">
+    <classes>
+      <class name="a1_Listing_Page.A11_GrandParentPage"/>
+    </classes>
+  </test> 
+  <!-- Profile page -->
+  <test name="Profile_Page_B1_TopBlock">
+    <classes>
+      <class name="a2_Profile_Page.B1_TopBlock"/>
+    </classes>
+  </test>
+   <test name="Profile_Page_B2_LeftBlock">
+    <classes>
+      <class name="a2_Profile_Page.B2_LeftBlock"/>
+    </classes>
+  </test>
+   <test name="Profile_Page_B3_MiddleBlock">
+    <classes>
+      <class name="a2_Profile_Page.B3_MiddleBlock"/>
+    </classes>
+  </test>
+   <test name="Profile_Page_B4_RightBlock">
+    <classes>
+      <class name="a2_Profile_Page.B4_RightBlock"/>
+     </classes>
+  </test>
+   <test name="Profile_Page_B5_BelowBlock">
+    <classes>
+      <class name="a2_Profile_Page.B5_BelowBlock"/>
+    </classes>
+  </test>
+  
+</suite>
