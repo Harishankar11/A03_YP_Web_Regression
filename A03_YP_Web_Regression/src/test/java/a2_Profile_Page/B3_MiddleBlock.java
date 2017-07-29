@@ -143,7 +143,8 @@ public class B3_MiddleBlock extends Commonmethods {
 
 		Thread.sleep(2000);
 		Explecit(driver, "xpath", "//span[contains(@class, 'reviewsuccess')]");
-
+		
+		
 		String s1 = driver.findElement(By.xpath("//span[contains(@class, 'reviewsuccess')]")).getText();
 
 		Reporter.log("Write Reviews functionality is working fine " + s1, true);
