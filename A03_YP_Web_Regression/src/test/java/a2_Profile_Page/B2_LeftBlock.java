@@ -29,6 +29,7 @@ public class B2_LeftBlock extends Commonmethods {
 		implicitlyWaiting(driver);
 
 		Reporter.log("URL: " + profileurl, true);
+		Reporter.log("URL: " + profileurl, true);
 
 		Thread.sleep(500);
 		Explecit(driver, "xpath", "//div[@class='float-left']/a");
